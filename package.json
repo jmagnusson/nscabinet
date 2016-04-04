@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/suiteplus/nscabinet#readme",
   "dependencies": {
-    "nsconfig": "0.3.x",
+    "nsconfig": "github:jmagnusson/nsconfig.js#override-config-name",
     "request": "^2.64.0",
     "through2": "^2.0.0",
     "vinyl": "^1.0.0",
